@@ -129,7 +129,8 @@ chhattisgarh-electricity-demand-forecasting/
 │
 ├── chhattisgarh_power_forecasting.ipynb
 ├── README.md
-├── cg_power_banner.png  
+├── cg_power_banner.png
+├── Electricity_Demand_Forecasting_Chhattisgarh_Presentation.ppt   
 ```
 
 ---
