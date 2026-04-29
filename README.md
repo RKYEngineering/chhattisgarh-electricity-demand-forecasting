@@ -127,10 +127,11 @@ chhattisgarh-electricity-demand-forecasting/
 ├── data/
 │   └── chhattisgarh-electricity-consumption-2012-2022.csv
 │
-├── chhattisgarh_power_forecasting.ipynb
+├── Electricity_Demand_Forecasting_Chhattisgarh_Presentation.ppt
 ├── README.md
-├── cg_power_banner.png
-├── Electricity_Demand_Forecasting_Chhattisgarh_Presentation.ppt   
+├── cg_power_banner.png 
+├── chhattisgarh_power_forecasting.ipynb
+
 ```
 
 ---
